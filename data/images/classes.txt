@@ -1,0 +1,2 @@
+puerta_abierta
+puerta_cerrada
