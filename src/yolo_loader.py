@@ -1,8 +1,7 @@
 from ultralytics import YOLO
-from config import CONFIG
 
 def load_model():
-    """
-    Carga el modelo YOLOv8 desde la ruta especificada en la configuración.
-    """
-    return YOLO(CONFIG["YOLO_MODEL_PATH"])
+    # Ajusta la ruta según sea necesario
+    model_path = "runs/detect/train14/weights/best.pt"
+    model = YOLO(model_path)
+    return model

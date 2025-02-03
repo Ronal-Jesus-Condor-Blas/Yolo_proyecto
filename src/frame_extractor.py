@@ -28,5 +28,5 @@ def extract_frames(video_path, output_folder, frame_interval=30):
 
 if __name__ == "__main__":
     video_path = "data/videos/1737160430143.mp4"  # Cambia por el video deseado
-    output_folder = "data/images/"
+    output_folder = "data/images/entrenar"  # Carpeta donde se guardarán los fotogramas
     extract_frames(video_path, output_folder)

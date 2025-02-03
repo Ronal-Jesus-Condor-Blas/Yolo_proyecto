@@ -1,0 +1,12 @@
+train: C:/Users/ronal/Desktop/PROYECTO_YOLO/data/images/train
+val: C:/Users/ronal/Desktop/PROYECTO_YOLO/data/images/val
+
+# Rutas para las etiquetas
+train_labels: C:/Users/ronal/Desktop/PROYECTO_YOLO/data/labels/train
+val_labels: C:/Users/ronal/Desktop/PROYECTO_YOLO/data/labels/val
+
+# Número de clases
+nc: 2
+
+# Nombre de las clases
+names: ['puerta_abierta', 'puerta_cerrada']

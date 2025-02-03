@@ -1,2 +1,2 @@
-Tiempo abierta: 1.1879999999999953 segundos
-Tiempo cerrada: 7.0619999999999905 segundos
+Tiempo abierta: 0 segundos
+Tiempo cerrada: 0 segundos
